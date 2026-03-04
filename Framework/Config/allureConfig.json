@@ -1,0 +1,15 @@
+{
+  "allure": {
+    "directory": "Reports/allure-results",
+    "links": [
+      {
+        "type": "issue",
+        "pattern": "https://jira.yourcompany.com/browse/{}"
+      },
+      {
+        "type": "tms",
+        "pattern": "https://testmanagement.yourcompany.com/tests/{}"
+      }
+    ]
+  }
+}

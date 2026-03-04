@@ -1,0 +1,6 @@
+2026-03-04 17:53:14.640 | INFO | Thread:16 | Executing TestCase:  - 
+2026-03-04 17:53:28.774 | INFO | Thread:16 | Navigating to Login page
+2026-03-04 17:53:28.934 | INFO | Thread:16 | Navigating to: https://automationexercise.com//login
+2026-03-04 17:53:52.934 | INFO | Thread:7 | Performing login
+2026-03-04 17:53:52.935 | DEBUG | Thread:7 | Entering username: Test@gmail.com
+2026-03-04 17:53:52.936 | DEBUG | Thread:7 | Filling: #username with Test@gmail.com
